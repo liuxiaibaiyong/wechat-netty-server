@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: wxnetty
+Bundle-SymbolicName: wxnetty
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.wx.nettyserver,
+ com.wx.nettyserver.dao,
+ com.wx.nettyserver.dao.impl,
+ com.wx.nettyserver.main,
+ com.wx.nettyserver.pojo.mapper,
+ com.wx.nettyserver.server,
+ com.wx.nettyserver.spring,
+ com.wx.nettyserver.tool
