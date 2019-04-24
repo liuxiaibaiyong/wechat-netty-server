@@ -23,6 +23,7 @@ public final class Netty {
     public static final Logger log = LoggerFactory.getLogger(Netty.class);
 
     private static int SERVER_PORT;
+
     static{
         loadConfig();
     }
