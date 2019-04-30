@@ -1,0 +1,38 @@
+package com.wx.nettyserver;
+
+import java.io.*;
+import java.util.Scanner;
+
+class Test {
+
+
+
+    public static void main(String[] args) throws IOException {
+    	/*  Scanner sc = new Scanner(System.in);
+    	 int m[] = getArray(Integer.parseInt(sc.nextLine()));
+    	  int n = Integer.parseInt(sc.nextLine());*/
+    	 int m[] = {1,2,3,4};
+    	  int h[] = getLastValue(m,2);
+    	  System.out.println(h);
+    }
+    
+    private static int[] getArray(int x){
+    	int[] test = new int[x];
+    	for(int t=1;t<=x;t++){
+    		test[t-1] = t;
+    	}
+    	return test;
+    }
+    
+    private static int[] getLastValue(int[] m,int n){
+      int length = m.length;
+      int x[] = new int[length-1];
+      for(int h=0;h<n-1;h++){
+    	  x[length-1-h]=m[h];
+      }
+      for(int d=n,k=0;d<length;d++,k++){
+    	  x[k]=m[d];
+      }
+      return x;
+    }
+}

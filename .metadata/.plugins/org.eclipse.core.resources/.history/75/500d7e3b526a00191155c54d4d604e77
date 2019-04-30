@@ -1,0 +1,3 @@
+path=com.wx.nettyserver.pojo.request
+
+TextMessageRequest=toUserName,fromUserName,msgType,content,msgId,createTime

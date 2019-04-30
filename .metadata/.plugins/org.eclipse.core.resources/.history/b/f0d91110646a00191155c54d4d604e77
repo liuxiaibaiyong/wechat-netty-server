@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+/**
+ * @author Administrator
+ *
+ */
+package com.wx.nettyserver.model;
+
+public class WxUser{
+	private int id;
+	private String wx_user_name;
+	private String open_id;
+	private String nickname;
+	private int sex;
+	private String city;
+	private String province;
+	private String country;
+	private String headimgurl;
+	private int subscribe_time;
+
+	
+	
+}

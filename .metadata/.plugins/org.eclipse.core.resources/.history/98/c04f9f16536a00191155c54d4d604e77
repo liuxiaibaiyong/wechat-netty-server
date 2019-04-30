@@ -1,0 +1,10 @@
+package com.wx.nettyserver.tool;
+
+import com.wx.nettyserver.constant.IConstantTrade;
+
+public enum ResponseUtils {
+	MSG_TEXT_TYPE(IConstantTrade.MSG_TEXT_TYPE);
+	ResponseUtils(String type){
+		
+	}
+}

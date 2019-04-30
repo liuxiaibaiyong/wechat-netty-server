@@ -1,0 +1,57 @@
+package com.wx.nettyserver;
+
+import java.io.*;
+import java.util.Scanner;
+
+class Test {
+
+
+
+    public static void main(String[] args) throws IOException {
+    	/*  Scanner sc = new Scanner(System.in);
+    	 int m[] = getArray(Integer.parseInt(sc.nextLine()));
+    	  int n = Integer.parseInt(sc.nextLine());*/
+    	 int m[] = {1,2,3,4};
+    	  int h[] = getLastValue(getArray(100),70);
+    	  System.out.println(h[0]);
+    }
+    
+    private static int[] getArray(int x){
+    	int[] test = new int[x];
+    	for(int t=1;t<=x;t++){
+    		test[t-1] = t;
+    	}
+    	return test;
+    }
+    
+    private static int[] getLastValue(int[] m,int n){
+    	int length = m.length;
+    	if(length == 2){
+    		  System.out.println(m);
+    		  System.out.println(m);
+    	}
+    	if(length>1){
+    	  int x[] = new int[length-1];
+    	  
+    	 if(x.length>=n){
+           for(int h=0;h<n-1;h++){
+    	     x[x.length-1-h]=m[h];
+           }
+           if(x.length ==n){
+        	   System.out.println(m);
+  	       }
+    	 } else {
+    		int rest = n%x.length;
+    		for(int h=0;h<rest-1;h++){
+    		  x[x.length-1-h]=m[h];
+    		}
+    	 }
+         for(int d=n,k=0;d<length;d++,k++){
+    	  x[k]=m[d];
+         }
+         return  getLastValue(x,n);
+      } else {
+    	 return  m;
+      }
+    }
+}

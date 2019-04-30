@@ -1,0 +1,82 @@
+/**
+ * 
+ */
+/**
+ * @author Administrator
+ *
+ */
+package com.wx.nettyserver.entity;
+
+public class WxUser{
+	private int id;
+	private String wx_user_name;
+	private String open_id;
+	private String nickname;
+	private int sex;
+	private String city;
+	private String province;
+	private String country;
+	private String headimgurl;
+	private int subscribe_time;
+	
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getWx_user_name() {
+		return wx_user_name;
+	}
+	public void setWx_user_name(String wx_user_name) {
+		this.wx_user_name = wx_user_name;
+	}
+	public String getOpen_id() {
+		return open_id;
+	}
+	public void setOpen_id(String open_id) {
+		this.open_id = open_id;
+	}
+	public String getNickname() {
+		return nickname;
+	}
+	public void setNickname(String nickname) {
+		this.nickname = nickname;
+	}
+	public int getSex() {
+		return sex;
+	}
+	public void setSex(int sex) {
+		this.sex = sex;
+	}
+	public String getCity() {
+		return city;
+	}
+	public void setCity(String city) {
+		this.city = city;
+	}
+	public String getProvince() {
+		return province;
+	}
+	public void setProvince(String province) {
+		this.province = province;
+	}
+	public String getCountry() {
+		return country;
+	}
+	public void setCountry(String country) {
+		this.country = country;
+	}
+	public String getHeadimgurl() {
+		return headimgurl;
+	}
+	public void setHeadimgurl(String headimgurl) {
+		this.headimgurl = headimgurl;
+	}
+	public int getSubscribe_time() {
+		return subscribe_time;
+	}
+	public void setSubscribe_time(int subscribe_time) {
+		this.subscribe_time = subscribe_time;
+	}	
+}

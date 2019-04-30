@@ -1,0 +1,34 @@
+package com.wx.nettyserver.tool;
+
+import java.lang.reflect.Field;
+
+import com.wx.nettyserver.constant.IConstantTrade;
+import com.wx.nettyserver.pojo.response.Response;
+import com.wx.nettyserver.pojo.response.TextMessageResponse;
+
+public enum ResponseEnum {
+	MSG_TEXT_TYPE;
+	
+	
+	private Response response(Object obj,String content) throws NoSuchFieldException, SecurityException, IllegalArgumentException, IllegalAccessException{
+		switch(this){
+		  case MSG_TEXT_TYPE:
+			return getMsg(obj,content);
+		}
+		return null;
+	}
+	
+	private Response getMsg(Object obj,String content) throws NoSuchFieldException, SecurityException, IllegalArgumentException, IllegalAccessException{
+		TextMessageResponse response = new TextMessageResponse();
+		Field fieldFrom=obj.getClass().getDeclaredField("fromUserName");
+		fieldFrom.setAccessible(true);
+		Field fieldTo=obj.getClass().getDeclaredField("toUserName");
+		fieldTo.setAccessible(true);
+		response.setToUserName(String.valueOf(fieldFrom.get(obj)));
+		response.setFromUserName(String.valueOf(fieldTo.get(obj)));
+		response.setCreateTime(String.valueOf(System.currentTimeMillis()/1000L));
+		response.setMsgType(IConstantTrade.MSG_TEXT_TYPE);
+        response.setContent(content);
+        return new Response(XmlUtils.object2Xml(response));
+	}
+}

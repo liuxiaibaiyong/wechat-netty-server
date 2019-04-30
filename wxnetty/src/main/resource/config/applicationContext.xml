@@ -20,7 +20,7 @@
     <context:component-scan base-package="com.wx.nettyserver.*" />
     <aop:aspectj-autoproxy />
    <context:property-placeholder location="classpath*:config/spring/jdbc.properties"/>
-    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+    <bean id="dataSources" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
         <!-- 基本属性 url、user、password -->
         <property name="url" value="${jdbcUrl}" />
         <property name="username" value="${user}" />
@@ -36,7 +36,7 @@
         <!-- 配置一个连接在池中最小生存的时间，单位是毫秒 -->
         <property name="minEvictableIdleTimeMillis" value="300000" />
 
-        <property name="validationQuery" value="SELECT 1 from dual" />
+        <property name="validationQuery" value="SELECT 1" />
         <property name="testWhileIdle" value="true" />
         <property name="testOnBorrow" value="false" />
         <property name="testOnReturn" value="false" />
@@ -48,7 +48,7 @@
     </bean>
 
 
-    <bean id="dataSources" class="com.mchange.v2.c3p0.ComboPooledDataSource"
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource"
           destroy-method="close">
         <property name="user" value="${jdbc.user}" />
         <property name="password" value="${jdbc.password}" />

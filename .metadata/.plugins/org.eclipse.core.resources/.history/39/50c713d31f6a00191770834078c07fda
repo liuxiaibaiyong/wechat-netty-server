@@ -1,0 +1,8 @@
+jdbcUrl=jdbc:mysql://127.0.0.1:3306/wx?useUnicode=true&characterEncoding=utf8&useSSL=false
+user=sa
+password=sa
+
+jdbc.url=jdbc:mysql://127.0.0.1:3306/wx?useUnicode=true&characterEncoding=utf8&useSSL=false
+jdbc.user=sa
+jdbc.password=sa
+jdbc.driverClass=com.mysql.jdbc.Driver

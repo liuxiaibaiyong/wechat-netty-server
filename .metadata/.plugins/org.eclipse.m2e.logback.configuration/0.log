@@ -1,0 +1,213 @@
+2019-04-24 10:59:08,337 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.nettyserver:wxnetty:1.0-SNAPSHOT @ E:\wx\wechat-netty-server\wxnetty\pom.xml.
+2019-04-24 10:59:19,517 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-24 10:59:19,534 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-24 10:59:19,543 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-24 10:59:19,544 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-24 10:59:21,515 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wxnetty/src/main/java
+2019-04-24 10:59:21,516 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wxnetty/src/test/java
+2019-04-24 10:59:30,378 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-04-24 10:59:36,102 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.nettyserver:wxnetty:1.0-SNAPSHOT @ E:\wx\wechat-netty-server\wxnetty\pom.xml.
+2019-04-24 10:59:50,500 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wxnetty/src/main/java
+2019-04-24 10:59:50,508 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wxnetty/src/test/java
+2019-04-24 10:59:54,837 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 24 sec
+2019-04-24 10:59:57,686 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-24 10:59:57,721 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-24 10:59:57,723 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-24 10:59:57,724 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-24 10:59:59,038 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\wx\wechat-netty-server\wxnetty
+2019-04-24 10:59:59,039 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-04-25 15:25:22,640 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.nettyserver:wxnetty:1.0-SNAPSHOT @ E:\wx\wechat-netty-server\wxnetty\pom.xml.
+2019-04-25 15:25:22,642 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.nettyserver:wxnetty:1.0-SNAPSHOT @ E:\wx\wechat-netty-server\wxnetty\pom.xml.
+2019-04-25 15:25:36,967 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-25 15:25:36,970 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-25 15:25:36,974 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-25 15:25:36,976 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-25 15:25:39,299 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.nettyserver:wxnetty:1.0-SNAPSHOT @ E:\wx\wechat-netty-server\wxnetty\pom.xml.
+2019-04-25 15:25:41,268 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-25 15:25:41,279 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-25 15:25:41,281 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-25 15:25:41,283 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-26 09:39:52,059 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.wxweb:wxweb:0.0.1-SNAPSHOT @ E:\wx\wechatmanager\wxweb\pom.xml.
+2019-04-26 09:41:04,303 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:41:04,411 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 09:41:04,694 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 09:41:04,704 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:41:04,704 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-26 09:43:23,472 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:43:23,571 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 09:43:23,572 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 09:43:23,599 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:43:23,599 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-26 09:43:36,763 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:43:36,849 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 09:43:36,851 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 09:43:36,853 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:43:36,853 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-26 09:43:43,189 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:43:43,190 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 09:43:43,192 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 09:43:43,196 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:43:43,196 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-26 09:45:13,322 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:45:13,343 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 09:45:13,344 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 09:45:13,346 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:45:13,346 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-26 09:46:35,589 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-26 09:46:35,597 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-26 09:46:35,598 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-26 09:46:35,599 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-26 09:46:59,774 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:46:59,774 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 09:46:59,777 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 09:46:59,784 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 09:46:59,784 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-26 10:52:23,137 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 10:52:23,138 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-26 10:52:23,140 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-26 10:52:23,142 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-26 10:52:23,142 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-28 15:10:52,733 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 15:10:52,743 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 15:10:52,750 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 15:10:52,751 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:27:53,615 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:27:53,636 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:27:53,637 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:27:53,639 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:28:08,275 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:28:08,315 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:28:08,316 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:28:08,317 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:34:00,777 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:34:00,884 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:34:00,885 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:34:00,886 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:34:41,627 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:34:41,635 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:34:41,638 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:34:41,639 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:34:55,913 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-28 16:34:55,913 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-28 16:34:55,956 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-28 16:34:55,972 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-28 16:34:55,973 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-28 16:37:09,306 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:37:09,320 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:37:09,323 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:37:09,324 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:37:16,067 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:37:16,154 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:37:16,155 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:37:16,156 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:37:22,417 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:37:22,499 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:37:22,500 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:37:22,501 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:56:53,632 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:56:53,667 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:56:53,668 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:56:53,670 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:58:50,333 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:58:50,362 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:58:50,365 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:58:50,367 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 16:59:46,151 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:59:46,187 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 16:59:46,189 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 16:59:46,190 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 17:00:48,159 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:00:48,180 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 17:00:48,181 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:00:48,182 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 17:06:12,958 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @265230683ms
+2019-04-28 17:06:13,865 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2019-04-28 17:06:14,071 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@536dc7f8{/help,null,AVAILABLE}
+2019-04-28 17:06:14,112 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1263dcc4{HTTP/1.1,[http/1.1]}{127.0.0.1:51220}
+2019-04-28 17:06:14,113 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @265231838ms
+2019-04-28 17:06:33,467 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:06:33,554 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 17:06:33,555 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:06:33,556 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 17:06:56,602 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-28 17:06:56,602 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-28 17:06:56,618 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-04-28 17:06:56,622 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-28 17:06:56,623 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechatmanager\wxweb\src\test\resources
+2019-04-28 17:11:34,962 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:11:35,103 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 17:11:35,104 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:11:35,105 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 17:12:29,533 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:12:29,563 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 17:12:29,566 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 17:12:29,567 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 19:14:13,991 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:14:14,011 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 19:14:14,013 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:14:14,014 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 19:21:29,465 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:21:29,478 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 19:21:29,479 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:21:29,480 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 19:21:53,267 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:21:53,291 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 19:21:53,293 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:21:53,294 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-28 19:22:25,235 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:22:25,257 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-28 19:22:25,258 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-28 19:22:25,259 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:24:39,661 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:24:39,670 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:24:39,671 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:24:39,672 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:35:26,422 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.wx.nettyserver:wxnetty:1.0-SNAPSHOT @ E:\wx\wechat-netty-server\wxnetty\pom.xml.
+2019-04-29 09:35:37,019 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:35:37,036 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:35:37,038 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:35:37,039 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:35:57,786 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:35:57,804 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:35:57,805 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:35:57,805 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:35:58,979 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\wx\wechat-netty-server\wxnetty
+2019-04-29 09:35:58,981 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-29 09:36:36,748 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:36:36,762 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:36:36,764 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:36:36,765 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:38:16,844 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:38:16,855 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:38:16,856 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:38:16,857 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:40:53,497 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:40:53,508 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:40:53,509 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:40:53,510 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:41:06,926 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:41:06,942 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:41:06,944 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:41:06,945 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:47:21,440 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:47:21,451 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:47:21,452 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:47:21,453 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:48:41,864 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:48:41,877 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:48:41,878 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:48:41,879 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:50:24,326 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:50:24,327 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:50:24,328 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:50:24,329 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:58:31,380 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:58:31,385 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:58:31,386 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:58:31,387 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:59:11,774 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:59:11,775 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\main\resources
+2019-04-29 09:59:11,779 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-04-29 09:59:11,780 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\wx\wechat-netty-server\wxnetty\src\test\resources
+2019-04-29 09:59:33,427 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1263dcc4{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2019-04-29 09:59:33,506 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@536dc7f8{/help,null,UNAVAILABLE}

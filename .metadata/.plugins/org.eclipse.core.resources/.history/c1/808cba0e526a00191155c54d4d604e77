@@ -1,0 +1,17 @@
+package com.wx.nettyserver.pojo.request;
+
+public class SubscribeMessageRequest extends SignatureRequest {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6983854564711407681L;
+
+	  private String toUserName;
+	  private String fromUserName;
+	  private String msgType;
+	  private String event;
+	  private String createTime;
+	  
+	  
+}

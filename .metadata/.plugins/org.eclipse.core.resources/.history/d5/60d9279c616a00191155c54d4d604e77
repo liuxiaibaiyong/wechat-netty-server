@@ -1,0 +1,10 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.wx.nettyserver.pojo.mapper.SubscribeMessageRequestMapper">
+
+    <select id="insertWxUser" resultType="java.lang.Long">
+        select 1
+    </select>
+
+</mapper>

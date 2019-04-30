@@ -12,4 +12,7 @@ public interface IConstantTrade {
     public static final String XMLHEAD="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n";
     
     public static final String MSG_TEXT_TYPE = "text";
+    
+    //EVENT
+    public static final String EVENT_SUBSCRIBE = "subscribe";
 }

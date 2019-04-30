@@ -1,0 +1,5 @@
+package com.wx.nettyserver.tool;
+
+public class ResponseUtils {
+
+}

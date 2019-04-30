@@ -1,0 +1,26 @@
+package com.wx.nettyserver.service;
+
+import org.springframework.stereotype.Service;
+import com.wx.nettyserver.pojo.request.SubscribeMessageRequest;
+import com.wx.nettyserver.pojo.response.Response;
+import com.wx.nettyserver.tool.ResponseEnum;
+
+/**
+ * 文本信息处理
+ * @author Administrator
+ *
+ */
+@Service("subscribeMessageService")
+public class SubscribeMessageService extends  NettyService<SubscribeMessageRequest>{
+    
+	/**
+	 * serialVersionUID
+	 */
+	private static final long serialVersionUID = -5034369448452005116L;
+
+	public Response service(SubscribeMessageRequest obj) throws Exception {
+		String content = "大家好:欢迎来到掌柜掌舵";
+        return ResponseEnum.MSG_TEXT_TYPE.response(obj,content);
+	}
+
+}

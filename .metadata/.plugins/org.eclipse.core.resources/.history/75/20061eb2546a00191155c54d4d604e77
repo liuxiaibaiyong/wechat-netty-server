@@ -1,0 +1,17 @@
+package com.wx.nettyserver.tool;
+
+import com.wx.nettyserver.constant.IConstantTrade;
+import com.wx.nettyserver.pojo.response.Response;
+import com.wx.nettyserver.pojo.response.TextMessageResponse;
+
+public enum ResponseUtils {
+	MSG_TEXT_TYPE;
+	
+	
+	private String response(){
+		switch(this){
+		  case MSG_TEXT_TYPE:
+			
+		}
+	}
+}

@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+/**
+ * @author Administrator
+ *
+ */
+package com.wx.nettyserver.model;
+
+public class WxUser{
+	
+	
+	
+}

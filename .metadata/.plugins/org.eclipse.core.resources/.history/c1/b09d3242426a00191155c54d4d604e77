@@ -1,0 +1,14 @@
+package com.wx.nettyserver;
+
+import java.io.*;
+
+class Test {
+
+
+
+    public static void main(String[] args) throws IOException {
+    	  int m=10;
+    	  int n=6;
+    	  
+       }
+}

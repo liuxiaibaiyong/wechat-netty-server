@@ -1,0 +1,22 @@
+package com.wx.nettyserver;
+
+import java.io.*;
+
+class Test {
+
+
+
+    public static void main(String[] args) throws IOException {
+    	  int m=10;
+    	  int n=6;
+    	  
+    }
+    
+    private int[] getArray(int x){
+    	int[] test = new int[x];
+    	for(int t=1;t<=x;t++){
+    		test[t-1] = t;
+    	}
+    	return test;
+    }
+}
